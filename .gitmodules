@@ -1,0 +1,10 @@
+[submodule "mobile-course-materials"]
+	path = mobile-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-course-materials
+	branch = master
+[submodule "mobile-practicals-knuddy"]
+	path = mobile-practicals-knuddy
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-practicals-knuddy
+[submodule "mobile-language-translator-knuddy"]
+	path = mobile-language-translator-knuddy
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-knuddy
