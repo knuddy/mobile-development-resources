@@ -8,3 +8,6 @@
 [submodule "mobile-language-translator-knuddy"]
 	path = mobile-language-translator-knuddy
 	url = https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-knuddy
+[submodule "mobile-wishlist-knuddy"]
+	path = mobile-wishlist-knuddy
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-wishlist-knuddy
